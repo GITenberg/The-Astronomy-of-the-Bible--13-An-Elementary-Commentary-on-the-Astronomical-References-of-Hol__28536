@@ -1,0 +1,31 @@
+_repo: The-Astronomy-of-the-Bible--13-An-Elementary-Commentary-on-the-Astronomical-References-of-Hol__28536
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maunder, E. Walter (Edward Walter)
+    alias: Maunder, Edward Walter
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '33389'
+    url: http://www.gutenberg.org/2009/agents/33389
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Walter_Maunder
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2009-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy in the Bible'
+- !lcsh 'Constellations'
+title: "The Astronomy of the Bible\r\nAn Elementary Commentary on the Astronomical\
+  \ References of Holy Scripture"
+url: http://www.gutenberg.org/ebooks/28536
